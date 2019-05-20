@@ -17,3 +17,9 @@ Type 2 error is also known as 'False Negative'
 Normally since the Type 1 error is the worst form of error in hypothesis testing, the maximum allowable type 1 error rate is fixed. Then the other error rate is minimized based on this. 
 The fixed type 1 error rate is normally notated using the greek letter alpha. α
 The type 2 error rate is β. Power of a test is commonly calculated as 1 - β .
+
+## Uses
+
+- Normally Hypothesis testing is used in A/B Testing. (If not A, then B?)
+- Testing whether a treatment (drug?) had a sufficient impact in treating a disease in a control group
+- Checking the statistical significance in any test environment.
